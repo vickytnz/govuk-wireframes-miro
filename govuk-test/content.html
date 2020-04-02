@@ -132,17 +132,19 @@
 	function addShapes(container) {
 		container.innerHTML += '<div class="shape draggable-item green" data-color="0ca788">I am shape</div>' +
 			'<div class="shape draggable-item red" data-color="f24726">Me too</div>'+
-      '<div class="govuk-form-group">
-  <fieldset class="govuk-fieldset" role="group" aria-describedby="passport-issued-hint">
-    <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
+      '
+      <div class="shape draggable-item>
+      <div class="govuk-form-group">
+      <fieldset class="govuk-fieldset" role="group" aria-describedby="passport-issued-hint">
+      <legend class="govuk-fieldset__legend govuk-fieldset__legend--xl">
       <h1 class="govuk-fieldset__heading">
         When was your passport issued?
       </h1>
-    </legend>
-    <span id="passport-issued-hint" class="govuk-hint">
+      </legend>
+      <span id="passport-issued-hint" class="govuk-hint">
       For example, 12 11 2007
-    </span>
-    <div class="govuk-date-input" id="passport-issued">
+      </span>
+      <div class="govuk-date-input" id="passport-issued">
       <div class="govuk-date-input__item">
         <div class="govuk-form-group">
           <label class="govuk-label govuk-date-input__label" for="passport-issued-day">
@@ -167,9 +169,11 @@
           <input class="govuk-input govuk-date-input__input govuk-input--width-4" id="passport-issued-year" name="passport-issued-year" type="text" pattern="[0-9]*" inputmode="numeric">
         </div>
       </div>
-    </div>
-  </fieldset>
-</div>'
+      </div>
+      </fieldset>
+      </div>
+</div>
+      '
 	}
 
 	function addImages(container) {
