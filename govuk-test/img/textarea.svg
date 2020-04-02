@@ -1,13 +1,15 @@
-
-<svg width="100%" height="100%" viewBox="0 0 216 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
-    <g transform="matrix(1,0,0,1,-704.889,-895.915)">
-        <rect x="704.889" y="895.915" width="215.906" height="16.031" style="fill-opacity:0;"/>
-        <g>
-            <g transform="matrix(1,0,0,1,130.286,-2.00781)">
-                <text x="577.838px" y="909.33px" style="font-family:'PTSans-Regular', 'PT Sans', sans-serif;font-size:10px;">T<tspan x="582.108px 586.958px " y="909.33px 909.33px ">ex</tspan>tarea label</text>
-            </g>
-            <rect x="709.523" y="912.765" width="206.551" height="102.504" style="fill-opacity:0;"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 432 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:8;">
+    <g transform="matrix(1,0,0,1,-1409.78,-1791.83)">
+        <g transform="matrix(0.00524934,0,0,-0.00524934,0,3856.07)">
+            <rect x="270328" y="347764" width="78695.9" height="39054" style="fill-opacity:0;stroke:rgb(11,12,12);stroke-width:762px;"/>
         </g>
-        <rect x="709.523" y="912.765" width="206.551" height="102.504" style="fill:none;stroke:rgb(11,12,12);stroke-width:2px;"/>
+        <g transform="matrix(0.00524934,0,0,-0.00524934,0,3615.72)">
+            <rect x="268563" y="341344" width="82260.2" height="6108" style="fill-opacity:0;"/>
+        </g>
+        <g transform="matrix(2.66667,0,0,2.66667,0,0)">
+            <text x="531.667px" y="680.543px" style="font-family:'PTSans-Regular', 'PT Sans', sans-serif;font-size:7px;fill:rgb(11,12,12);">T<tspan x="534.769px 538.276px 541.994px 544.479px 548.064px 550.557px 554.225px 557.81px 559.838px 561.995px 565.579px 569.472px 573.14px " y="680.543px 680.543px 680.543px 680.543px 680.543px 680.543px 680.543px 680.543px 680.543px 680.543px 680.543px 680.543px 680.543px ">extarea label</tspan></text>
+        </g>
     </g>
 </svg>
