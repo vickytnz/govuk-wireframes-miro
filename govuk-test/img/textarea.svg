@@ -1,0 +1,13 @@
+
+<svg width="100%" height="100%" viewBox="0 0 216 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-704.889,-895.915)">
+        <rect x="704.889" y="895.915" width="215.906" height="16.031" style="fill-opacity:0;"/>
+        <g>
+            <g transform="matrix(1,0,0,1,130.286,-2.00781)">
+                <text x="577.838px" y="909.33px" style="font-family:'PTSans-Regular', 'PT Sans', sans-serif;font-size:10px;">T<tspan x="582.108px 586.958px " y="909.33px 909.33px ">ex</tspan>tarea label</text>
+            </g>
+            <rect x="709.523" y="912.765" width="206.551" height="102.504" style="fill-opacity:0;"/>
+        </g>
+        <rect x="709.523" y="912.765" width="206.551" height="102.504" style="fill:none;stroke:rgb(11,12,12);stroke-width:2px;"/>
+    </g>
+</svg>
