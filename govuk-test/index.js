@@ -7,7 +7,7 @@ function run() {
 				title: 'Dropper',
 				svgIcon: icon24,
 				onClick: () => {
-					miro.board.ui.openLibrary('content.html', {title: 'Dropper'})
+					miro.board.ui.openLibrary('https://vickytnz.github.io/govuk-wireframes-miro/govuk-test/content.html', {title: 'Dropper'})
 				}
 			},
 			getWidgetMenuItems: (widgets) => {
